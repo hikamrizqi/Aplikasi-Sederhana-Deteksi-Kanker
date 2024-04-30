@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Tambah Foto</string>
+    <string name="analyze">Analisis</string>
+    <string name="result">Hasil</string>
+    <string name="empty_image_warning">Ups! Sepertinya Anda belum memilih gambar.</string>
+    <string name="image_classifier_failed">Ups! Gagal memuat pengklasifikasi gambar. Lihat log kesalahan untuk detail.</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_new">Berita</string>
+    <string name="news_title">Judul Berita</string>
+    <string name="news_link">Tautan</string>
+
+</resources>
